@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: black;
+}
+
+h1 {
+    color: #32B9CD;
+    margin: 0;
+}
+
+.container {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid pink;
+    /* margin-left: 10%; */
+    /* margin-right: 10%; */
+    /* margin: 0 10% 0 10% */
+    margin: 0 10%;
+}
+
+.navbar{
+    color: rgb(255, 255,0);
+}
